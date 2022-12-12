@@ -1,0 +1,1 @@
+This folder contains all the dataset,figures,hypothesis tests, probability tests, confusion matrix performed for my research proposal.The readme files for each section is present in the individual subfolders.
